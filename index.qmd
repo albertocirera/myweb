@@ -1,5 +1,5 @@
 ---
-title: "Carlos"
+title: "Carlos Carlos"
 about:
   template: trestles
   image: avatar.jpg
