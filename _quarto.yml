@@ -4,10 +4,10 @@ project:
 
 
 website:
-  title: "My website"
-  description: "I am a scientist"
-  site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
+  title: "Carlos Carlos"
+  description: "I am Carlos, the scientist"
+  site-url: https://albertocirera.github.io/academic-website-template-Quarto
+  repo-url: https://github.com/albertocirera/myweb.git
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
